@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mappings>
+   <mapping>
+     <method name="addUsers">
+     		<parameter index="0" componentType="com.skyseas.openfireplugins.group.GroupMemberInfo"/>
+           <return-type componentType="com.skyseas.openfireplugins.group.ChatUser" />
+     </method>
+   </mapping>
+</mappings>

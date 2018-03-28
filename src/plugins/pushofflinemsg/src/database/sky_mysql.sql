@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS sky_offlinepushtoken(
+  id INT PRIMARY KEY AUTO_INCREMENT,
+  os VARCHAR(50) ,
+  jid VARCHAR(50),
+  username VARCHAR(100),
+  token  VARCHAR(100),
+  brand VARCHAR(50)
+  ) DEFAULT CHARSET=utf8;

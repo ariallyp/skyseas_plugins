@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+    <class>com.skyseas.openfireplugins.pushofflinemsg.OfflinePushPlugin</class>
+    <name>pushOffline Msg</name>
+    <description>send offline msg to client</description>
+    <author>liyaping</author>
+    <version>1.0.1</version>
+    <date>09/05/2017</date>
+    <minServerVersion>3.7.0</minServerVersion>
+	<databaseKey>sky</databaseKey>
+    <databaseVersion>0</databaseVersion>
+</plugin>
